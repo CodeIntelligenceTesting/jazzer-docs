@@ -1,2 +1,5 @@
 com.code_intelligence.jazzer.api
+com.code_intelligence.jazzer.mutation.annotation
+com.code_intelligence.jazzer.mutation.annotation.proto
+com.code_intelligence.jazzer.mutation.utils
 jaz

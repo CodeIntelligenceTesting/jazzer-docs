@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.code_intelligence.jazzer.api"},{"l":"jaz"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.code_intelligence.jazzer.api"},{"l":"com.code_intelligence.jazzer.mutation.annotation"},{"l":"com.code_intelligence.jazzer.mutation.annotation.proto"},{"l":"com.code_intelligence.jazzer.mutation.utils"},{"l":"jaz"}];updateSearchResults();
